@@ -37,7 +37,8 @@ Before running the project, ensure you have the following dependencies installed
 - Sounddevice
 - Torchaudio
 ## Sample 
-![chatbot](مرحبا.png) ![chatbot](arm.png)
+<img src="مرحبا.png" alt="chatbot" style="width: 300px;"/> <img src="arm.png" alt="chatbot" style="width: 200px;"/>
+
 ## Contributors
 
 - George Youhana - g.ghaly0451@student.aast.edu
