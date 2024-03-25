@@ -36,3 +36,10 @@ Before running the project, ensure you have the following dependencies installed
 - PIL (Python Imaging Library)
 - Sounddevice
 - Torchaudio
+
+## Contributors
+
+- George Youhana - g.ghaly0451@student.aast.edu
+- Mostafa Magdy - Mustafa.10770@stemredsea.moe.edu.eg
+- Abdallah Alkhouly- a.alkholy53@student.aast.edu
+
