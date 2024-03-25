@@ -1,5 +1,6 @@
 # Arabic Sign Language Communication Project
 ![chatbot](مرحبا.png)
+![chatbot](arm.png)
 
 This project aims to facilitate communication between a normal person and a deaf person using Arabic Sign Language. It consists of two main parts: 
 
